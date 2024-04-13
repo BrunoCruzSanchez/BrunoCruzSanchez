@@ -2,16 +2,6 @@
 
 🌱 Final Semester Environmental Science Student|🇲🇽 National Autonomous University of Mexico (UNAM)|📍 Merida, Yucatan 
 
-## Skills 
-
-- Python 
-- QGIS 
-- R 
-- Photogrammetry with UAV imagery
-- Interferometry for obtaining DEMs with Sentinel-2 imagery 
-- Automation of pre-processing for multi and hyperespectral imagery
-
-
 ## Key Research Focus
 
 - Geomatics 🌎
@@ -20,6 +10,15 @@
 - Artificial Intelligence 🧠
 - Seascape and landscape 🏝
 - Data Science 📊
+
+## Skills 
+
+- Python 
+- QGIS 
+- R 
+- Photogrammetry with UAV imagery
+- Interferometry for obtaining DEMs with Sentinel-2 imagery 
+- Automation of pre-processing for multi and hyperespectral imagery
 
 ## Research experience
 
