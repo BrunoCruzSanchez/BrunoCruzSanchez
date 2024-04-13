@@ -4,6 +4,8 @@
 
 ## Research Focus
 
+🗺 I have been part of projects that apply geomatics in environmental studies such as the semi-automatic delimitation of environmental management units and physical geographical landscape in Ticul, Yucatan 
+
 🌊 Currently, I'm delving into my thesis research, which revolves around the implementation of artificial neural networks for the automated identification of coral colonies in the Mexican Caribbean coral reefs.
 
 ## How To Reach Me 
