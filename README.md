@@ -1,4 +1,4 @@
-**Bruno Cruz Sanchez**
+# **Bruno Cruz Sanchez**
 
 🌱Final Semester Environmental Science Student|🇲🇽National Autonomous University of Mexico (UNAM)|📍Merida, Yucatan 
 
