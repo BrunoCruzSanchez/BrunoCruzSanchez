@@ -9,6 +9,7 @@
 - Remote Sensing 🛰
 - Artificial Intelligence 🧠
 - Seascape and landscape 🏝
+- Data Science 📊
 
 ## Research experience
 
