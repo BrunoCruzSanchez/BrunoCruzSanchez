@@ -2,9 +2,17 @@
 
 🌱 Final Semester Environmental Science Student|🇲🇽 National Autonomous University of Mexico (UNAM)|📍 Merida, Yucatan 
 
-## Research Focus
+## Key Research Focus
 
-🗺 I have been part of projects that apply geomatics in environmental studies such as the semi-automatic delimitation of environmental management units and physical geographical landscape in Ticul, Yucatan 
+- Geomatics 🌎
+- Environment 🌿
+- Remote Sensing 🛰
+- Artificial Intelligence 🧠
+- Seascape and landscape 🏝
+
+## Research experience
+
+🗺 I have been part of projects that apply geomatics in environmental studies such as the semi-automatic delimitation of environmental management units and physical geographical landscape in Ticul, Yucatan.
 
 🌊 Currently, I'm delving into my thesis research, which revolves around the implementation of artificial neural networks for the automated identification of coral colonies in the Mexican Caribbean coral reefs.
 
