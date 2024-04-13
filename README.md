@@ -1,7 +1,11 @@
 **Bruno Cruz Sanchez**
 
-🌱Final semester Environmental Science Student|🇲🇽National Autonomous University of Mexico (UNAM)|📍Merida, Yucatan 
+🌱Final Semester Environmental Science Student|🇲🇽National Autonomous University of Mexico (UNAM)|📍Merida, Yucatan 
 
+## How to reach me: 
+
+Feel free to reach out to me at:
+bcsanchez2424@gmail.com 
 
 
   
