@@ -9,7 +9,7 @@
 - R 
 - Photogrammetry with UAV imagery
 - Interferometry for obtaining DEMs with Sentinel-2 imagery 
-- Automation of pre-processing for multi and hyperespectral imagery in Python
+- Automation of pre-processing for multi and hyperespectral imagery
 
 
 ## Key Research Focus
