@@ -17,7 +17,7 @@
 - QGIS 
 - R 
 - Photogrammetry with UAV imagery
-- Interferometry for obtaining DEMs with Sentinel-2 imagery 
+- Interferometry for obtaining DEMs with Sentinel-1 imagery 
 - Automation of pre-processing for multi and hyperespectral imagery
 
 ## Research experience
