@@ -18,7 +18,7 @@
 - R 
 - Photogrammetry with UAV imagery
 - Interferometry for obtaining DEMs with Sentinel-1 imagery 
-- Automation of pre-processing for multi and hyperespectral imagery
+- Automation of processing for multi and hyperespectral imagery
 
 ## Research experience
 
